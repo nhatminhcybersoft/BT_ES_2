@@ -1,1 +1,2 @@
-Instruction: https://apicrm.cybersoft.edu.vn/files/11-[bai_tap]-es-buoi-2-thu-kinh.pdf
+Link web site bài tập của Nhật Minh: https://nhatminhcybersoft.github.io/BT_ES_2/
+
